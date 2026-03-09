@@ -24,7 +24,3 @@ Sou Desenvolvedora Full Stack com 3 anos de experiência, focada em construir si
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=stephanyalmeida&show_icons=true&theme=dracula&include_all_commits=true&v=1)](https://github.com/stephanyalmeida)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanyalmeida&layout=compact&langs_count=7&theme=dracula&v=1)](https://github.com/stephanyalmeida)
